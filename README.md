@@ -1,5 +1,9 @@
 # Search debounced readme
 
+## This repo is material for this video
+
+[![Video thumbnail](http://img.youtube.com/vi/5bDGlLiVggE/0.jpg)](http://www.youtube.com/watch?v=5bDGlLiVggE 'Simple debounce search in Nuxt and Vue (and Supabase)')
+
 ## How to run this project
 
 Once you have cloned this project:
